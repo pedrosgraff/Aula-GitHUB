@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Multiplos\bin\Debug\net7.0\Multiplos.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Multiplos\bin\Debug\net7.0\Multiplos.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Multiplos\bin\Debug\net7.0\Multiplos.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Multiplos\bin\Debug\net7.0\Multiplos.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Multiplos\bin\Debug\net7.0\Multiplos.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Multiplos\obj\Debug\net7.0\Multiplos.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Multiplos\obj\Debug\net7.0\Multiplos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Multiplos\obj\Debug\net7.0\Multiplos.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Multiplos\obj\Debug\net7.0\Multiplos.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Multiplos\obj\Debug\net7.0\Multiplos.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Multiplos\obj\Debug\net7.0\Multiplos.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Multiplos\obj\Debug\net7.0\refint\Multiplos.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Multiplos\obj\Debug\net7.0\Multiplos.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Multiplos\obj\Debug\net7.0\Multiplos.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Multiplos\obj\Debug\net7.0\ref\Multiplos.dll

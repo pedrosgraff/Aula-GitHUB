@@ -1,0 +1,5 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Exercicio If\obj\Debug\net7.0\Exercicio If.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Exercicio If\obj\Debug\net7.0\Exercicio If.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Exercicio If\obj\Debug\net7.0\Exercicio If.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Exercicio If\obj\Debug\net7.0\Exercicio If.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Exercicio If\obj\Debug\net7.0\Exercicio If.csproj.CoreCompileInputs.cache

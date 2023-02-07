@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\PositivoNegativo\bin\Debug\net7.0\PositivoNegativo.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\PositivoNegativo\bin\Debug\net7.0\PositivoNegativo.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\PositivoNegativo\bin\Debug\net7.0\PositivoNegativo.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\PositivoNegativo\bin\Debug\net7.0\PositivoNegativo.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\PositivoNegativo\bin\Debug\net7.0\PositivoNegativo.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\PositivoNegativo\obj\Debug\net7.0\PositivoNegativo.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\PositivoNegativo\obj\Debug\net7.0\PositivoNegativo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\PositivoNegativo\obj\Debug\net7.0\PositivoNegativo.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\PositivoNegativo\obj\Debug\net7.0\PositivoNegativo.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\PositivoNegativo\obj\Debug\net7.0\PositivoNegativo.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\PositivoNegativo\obj\Debug\net7.0\PositivoNegativo.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\PositivoNegativo\obj\Debug\net7.0\refint\PositivoNegativo.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\PositivoNegativo\obj\Debug\net7.0\PositivoNegativo.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\PositivoNegativo\obj\Debug\net7.0\PositivoNegativo.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\PositivoNegativo\obj\Debug\net7.0\ref\PositivoNegativo.dll

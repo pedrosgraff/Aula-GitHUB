@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Cordenadas\obj\Debug\net7.0\Cordenadas.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Cordenadas\obj\Debug\net7.0\Cordenadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Cordenadas\obj\Debug\net7.0\Cordenadas.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Cordenadas\obj\Debug\net7.0\Cordenadas.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Cordenadas\obj\Debug\net7.0\Cordenadas.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Cordenadas\bin\Debug\net7.0\Cordenadas.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Cordenadas\bin\Debug\net7.0\Cordenadas.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Cordenadas\bin\Debug\net7.0\Cordenadas.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Cordenadas\bin\Debug\net7.0\Cordenadas.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Cordenadas\bin\Debug\net7.0\Cordenadas.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Cordenadas\obj\Debug\net7.0\Cordenadas.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Cordenadas\obj\Debug\net7.0\refint\Cordenadas.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Cordenadas\obj\Debug\net7.0\Cordenadas.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Cordenadas\obj\Debug\net7.0\Cordenadas.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Cordenadas\obj\Debug\net7.0\ref\Cordenadas.dll

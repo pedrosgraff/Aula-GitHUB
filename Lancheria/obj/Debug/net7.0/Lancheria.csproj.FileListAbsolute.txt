@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Lancheria\obj\Debug\net7.0\Lancheria.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Lancheria\obj\Debug\net7.0\Lancheria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Lancheria\obj\Debug\net7.0\Lancheria.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Lancheria\obj\Debug\net7.0\Lancheria.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Lancheria\obj\Debug\net7.0\Lancheria.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Lancheria\bin\Debug\net7.0\Lancheria.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Lancheria\bin\Debug\net7.0\Lancheria.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Lancheria\bin\Debug\net7.0\Lancheria.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Lancheria\bin\Debug\net7.0\Lancheria.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Lancheria\bin\Debug\net7.0\Lancheria.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Lancheria\obj\Debug\net7.0\Lancheria.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Lancheria\obj\Debug\net7.0\refint\Lancheria.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Lancheria\obj\Debug\net7.0\Lancheria.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Lancheria\obj\Debug\net7.0\Lancheria.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Lancheria\obj\Debug\net7.0\ref\Lancheria.dll

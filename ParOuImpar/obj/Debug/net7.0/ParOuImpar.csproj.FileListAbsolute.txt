@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\ParOuImpar\obj\Debug\net7.0\ParOuImpar.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\ParOuImpar\obj\Debug\net7.0\ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\ParOuImpar\obj\Debug\net7.0\ParOuImpar.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\ParOuImpar\obj\Debug\net7.0\ParOuImpar.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\ParOuImpar\obj\Debug\net7.0\ParOuImpar.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\ParOuImpar\bin\Debug\net7.0\ParOuImpar.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\ParOuImpar\bin\Debug\net7.0\ParOuImpar.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\ParOuImpar\bin\Debug\net7.0\ParOuImpar.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\ParOuImpar\bin\Debug\net7.0\ParOuImpar.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\ParOuImpar\bin\Debug\net7.0\ParOuImpar.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\ParOuImpar\obj\Debug\net7.0\ParOuImpar.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\ParOuImpar\obj\Debug\net7.0\refint\ParOuImpar.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\ParOuImpar\obj\Debug\net7.0\ParOuImpar.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\ParOuImpar\obj\Debug\net7.0\ParOuImpar.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\ParOuImpar\obj\Debug\net7.0\ref\ParOuImpar.dll

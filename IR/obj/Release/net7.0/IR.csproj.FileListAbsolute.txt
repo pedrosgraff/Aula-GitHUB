@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\IR\bin\Release\net7.0\IR.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\IR\bin\Release\net7.0\IR.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\IR\bin\Release\net7.0\IR.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\IR\bin\Release\net7.0\IR.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\IR\bin\Release\net7.0\IR.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\IR\obj\Release\net7.0\IR.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\IR\obj\Release\net7.0\IR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\IR\obj\Release\net7.0\IR.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\IR\obj\Release\net7.0\IR.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\IR\obj\Release\net7.0\IR.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\IR\obj\Release\net7.0\IR.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\IR\obj\Release\net7.0\refint\IR.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\IR\obj\Release\net7.0\IR.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\IR\obj\Release\net7.0\IR.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\IR\obj\Release\net7.0\ref\IR.dll

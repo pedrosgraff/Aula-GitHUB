@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Jogo\obj\Debug\net7.0\Jogo.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Jogo\obj\Debug\net7.0\Jogo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Jogo\obj\Debug\net7.0\Jogo.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Jogo\obj\Debug\net7.0\Jogo.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Jogo\obj\Debug\net7.0\Jogo.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Jogo\bin\Debug\net7.0\Jogo.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Jogo\bin\Debug\net7.0\Jogo.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Jogo\bin\Debug\net7.0\Jogo.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Jogo\bin\Debug\net7.0\Jogo.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Jogo\bin\Debug\net7.0\Jogo.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Jogo\obj\Debug\net7.0\Jogo.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Jogo\obj\Debug\net7.0\refint\Jogo.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Jogo\obj\Debug\net7.0\Jogo.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Jogo\obj\Debug\net7.0\Jogo.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Exercicio If\Jogo\obj\Debug\net7.0\ref\Jogo.dll
